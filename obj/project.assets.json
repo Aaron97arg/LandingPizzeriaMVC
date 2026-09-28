@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\Programacion\\RepositoriosG\\LandingPizzeriaMVC\\LandingPizzeriaMVC\\LandingPizzeriaMVC.csproj",
+      "projectUniqueName": "E:\\Documents\\Programacion\\RepositoriosG\\LandingPizzeriaMVC\\LandingPizzeriaMVC.csproj",
       "projectName": "LandingPizzeriaMVC",
-      "projectPath": "E:\\Documents\\Programacion\\RepositoriosG\\LandingPizzeriaMVC\\LandingPizzeriaMVC\\LandingPizzeriaMVC.csproj",
+      "projectPath": "E:\\Documents\\Programacion\\RepositoriosG\\LandingPizzeriaMVC\\LandingPizzeriaMVC.csproj",
       "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\Programacion\\RepositoriosG\\LandingPizzeriaMVC\\LandingPizzeriaMVC\\obj\\",
+      "outputPath": "E:\\Documents\\Programacion\\RepositoriosG\\LandingPizzeriaMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
